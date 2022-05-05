@@ -138,8 +138,8 @@ func main() {
 //insert method works recursively:
 //Compare key with the reciver and go to the cihld on the right if its larger,
 //or go to the left if its smaller
-//If the child is empty, put new node there
-//If not empty, call insert(k) again
+//If the child is empty, put a new node there
+//If not empty call insert(k) again
 
 //search also recursive:
 //this method returns either true when value of the node is found
